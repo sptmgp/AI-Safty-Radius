@@ -77,3 +77,17 @@ behavior.
 
 Saravana Prakash Thirumuruganandham
 [LinkedIn](https://www.linkedin.com/in/sthirumuruganandham/)
+
+## 📜 Licensing & Commercial Options
+
+This project is open-source under the **GNU Affero General Public License v3.0 (AGPLv3)**. 
+
+### Enterprise Commercial Licensing
+If you wish to integrate this transitive reachability model, percolation audit algorithms, or guardrail tools into closed-source, proprietary software (such as commercial SaaS products, internal enterprise IAM scanners, or proprietary agent orchestration engines) without AGPLv3 copyleft obligations:
+
+* **Commercial Licenses:** Custom enterprise licensing is available to bypass AGPLv3 restrictions.
+* **Security & Permission Audits:** Custom graph-percolation risk analysis, scaling simulations (up to 20,000+ nodes), and CI/CD audit tool integration for enterprise multi-agent networks (AWS IAM, Okta, LangGraph, AutoGen, CrewAI).
+
+For commercial licensing, enterprise pilots, or consulting inquiries, please contact:
+* **Contact Email:** `saravprak@googlemail.com`
+* **LinkedIn:** [Saravana Prakash Thirumuruganandham](https://www.linkedin.com/in/sthirumuruganandham/)
